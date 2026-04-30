@@ -4,3 +4,7 @@
 
 ## Descripción
 Validación automática de Terraform con GitHub Actions.
+
+## Versión 1.1
+
+Se añade documentación del flujo de despliegue automático con Terraform y LocalStack.
